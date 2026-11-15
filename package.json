@@ -1,0 +1,29 @@
+{
+  "name": "ultraai-cli",
+  "version": "0.1.0",
+  "description": "Unofficial client for Ultra AI Chat (com.ultraai.app): new UltraAI() registers a free account on the fly, then chat(), image() and video().",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ultraai",
+    "ultra-ai-chat",
+    "ai",
+    "chat",
+    "text-to-image",
+    "text-to-video",
+    "client",
+    "unofficial"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}

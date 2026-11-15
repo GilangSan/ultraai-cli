@@ -1,0 +1,4 @@
+node_modules/
+*.tgz
+*.mp4
+*.log
